@@ -1,0 +1,6 @@
+[submodule "puppet-git"]
+	path = puppet-git
+	url = git@github.com:theforeman/puppet-git.git
+[submodule "puppet-passenger"]
+	path = puppet-passenger
+	url = git@github.com:theforeman/puppet-passenger.git
