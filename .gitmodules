@@ -4,3 +4,6 @@
 [submodule "puppet-passenger"]
 	path = puppet-passenger
 	url = https://github.com/theforeman/puppet-passenger.git
+[submodule "puppet-dhcp"]
+	path = puppet-dhcp
+	url = https://github.com/theforeman/puppet-dhcp.git
